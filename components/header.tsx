@@ -8,7 +8,7 @@ export default function Header() {
         <TbMenu2 className=" text-3xl" />
       </Link>
 
-      <h2 className="md:text-4xl sm:text-7xl font-bold tracking-tighter leading-tight md:pr-8 italic">
+      <h2 className="md:text-4xl sm:text-7xl text-3xl font-bold tracking-tighter leading-tight md:pr-8 italic">
         <Link href="/" className="hover:underline">
           sonora.
         </Link>
